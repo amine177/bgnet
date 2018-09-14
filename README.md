@@ -1,2 +1,2 @@
 # bgnet
-Walking through bgnet's networks book
+Walking through beej's network programming book
